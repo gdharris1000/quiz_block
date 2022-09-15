@@ -1,0 +1,7 @@
+name: "Quiz Block"
+description: "Create a quiz using a chosen Taxonomy term"
+package: "Gareth"
+type: module
+core_version_requirement: ^8 || ^9
+dependencies:
+  - block
